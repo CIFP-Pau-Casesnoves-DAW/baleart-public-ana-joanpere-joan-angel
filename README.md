@@ -1,4 +1,4 @@
 # baleart-public-ana-joanpere-joan-angel
 baleart-public-ana-joanpere-joan-angel created by GitHub Classroom
 
- Url API: www.rest.bale-art.com/prova.php
+ Url API: http://rest.bale-art.com/api/public/api/
