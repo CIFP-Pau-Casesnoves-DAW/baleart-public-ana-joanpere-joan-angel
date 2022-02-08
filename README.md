@@ -5,4 +5,8 @@ baleart-public-ana-joanpere-joan-angel created by GitHub Classroom
  Per fer es login accedir a la url http://rest.bale-art.com/api/public/api/login  
  amb els següents paràmetres:  
  email: emailrandom@hotmail.com  
- contrasenya: passrandom
+ contrasenya: passrandom  
+   
+   Una vegada fet es login rebreu un token que haureu d'utilitzar per accedir a  
+   la resta d urls. Vos recomanam fer-vos un usuari nou per si voleu connectar-vos  
+   a l'hora.
