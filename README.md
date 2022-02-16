@@ -1,7 +1,7 @@
 # baleart-public-ana-joanpere-joan-angel
 baleart-public-ana-joanpere-joan-angel created by GitHub Classroom
 
- Url API: http://rest.bale-art.com/api/public/  
+ ~~Url API: http://rest.bale-art.com/api/public/~~ --> vista en proves...
  
  Per fer es login accedir a la url http://rest.bale-art.com/api/public/api/login  
  amb els següents paràmetres:  
